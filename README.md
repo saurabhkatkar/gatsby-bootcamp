@@ -1,16 +1,4 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's hello-world starter
-</h1>
-
-Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
-
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+[![Netlify Status](https://api.netlify.com/api/v1/badges/23b3811b-52c1-4a80-bc9d-34938474b3a5/deploy-status)](https://app.netlify.com/sites/romantic-golick-809649/deploys)
 
 ## 🚀 Quick start
 
