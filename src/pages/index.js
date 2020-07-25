@@ -10,9 +10,6 @@ const IndexPage = () => {
       <h1> Hii </h1>
       <h2> I am Saurabh , Full Stack Developer.</h2>
       <h3> I am living in India. </h3>
-      <p>
-        Need a Developer ? <Link to="/contact"> Contact me. </Link>
-      </p>
     </Layout>
   )
 }
